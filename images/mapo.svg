@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360">
+	<defs>
+		<linearGradient id="g1" x1="0" x2="1">
+			<stop offset="0" stop-color="#fff0e6"/>
+			<stop offset="1" stop-color="#ffd6cc"/>
+		</linearGradient>
+	</defs>
+	<rect rx="16" width="100%" height="100%" fill="url(#g1)"/>
+	<g transform="translate(40,40)">
+		<ellipse cx="220" cy="120" rx="160" ry="60" fill="#b33" opacity="0.13"/>
+		<rect x="160" y="60" width="200" height="120" rx="14" fill="#fff"/>
+		<text x="260" y="130" text-anchor="middle" font-size="34" font-family="Noto Sans SC, Arial" fill="#b33">麻婆豆腐</text>
+		<text x="260" y="164" text-anchor="middle" font-size="14" fill="#6b2">香辣鲜麻，家常下饭</text>
+	</g>
+</svg>

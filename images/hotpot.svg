@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360">
+	<rect rx="16" width="100%" height="100%" fill="#fff8f5"/>
+	<g transform="translate(40,30)">
+		<circle cx="120" cy="120" r="72" fill="#fff0f0" stroke="#f6c6c6"/>
+		<text x="120" y="128" text-anchor="middle" font-size="28" font-family="Noto Sans SC, Arial" fill="#b33">红油抄手</text>
+		<text x="320" y="80" font-size="14" fill="#666">麻辣爽口，惹味十足</text>
+	</g>
+</svg>

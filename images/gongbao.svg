@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360">
+	<rect rx="16" width="100%" height="100%" fill="#fff7ee"/>
+	<g transform="translate(36,30)">
+		<circle cx="120" cy="120" r="70" fill="#ffedd5"/>
+		<text x="120" y="128" text-anchor="middle" font-size="30" font-family="Noto Sans SC, Arial" fill="#cc6b00">宫保鸡丁</text>
+		<text x="280" y="80" font-size="14" fill="#666">酸甜微辣，花生脆香</text>
+	</g>
+</svg>

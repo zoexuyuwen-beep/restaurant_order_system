@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="360" viewBox="0 0 600 360">
+	<rect rx="16" width="100%" height="100%" fill="#fff9f2"/>
+	<g transform="translate(30,30)">
+		<rect x="20" y="60" width="240" height="140" rx="18" fill="#fff" stroke="#f0d9c8"/>
+		<text x="140" y="140" text-anchor="middle" font-size="30" font-family="Noto Sans SC, Arial" fill="#b34">小笼包</text>
+		<text x="310" y="90" font-size="14" fill="#666">皮薄多汁，鲜美汤汁</text>
+	</g>
+</svg>
